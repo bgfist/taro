@@ -28,7 +28,7 @@
   "dependencies": {
     "@ant-design/react-native": "^4.2.0",
     "@react-native-community/slider": "4.0.0-rc.3",
-    "@react-native-picker/picker": "^1.16.4",
+    "@react-native-picker/picker": "^2.4.6",
     "@unimodules/core": "~5.5.1",
     "@unimodules/react-native-adapter": "~5.6.0",
     "expo-asset": "^8.2.0",
@@ -59,7 +59,7 @@
   },
   "peerDependencies": {
     "@react-native-community/slider": "4.0.0-rc.3",
-    "@react-native-picker/picker": "^1.16.4",
+    "@react-native-picker/picker": "^2.4.6",
     "expo-av": "~8.6.0",
     "expo-barcode-scanner": "~9.0.0",
     "expo-camera": "~9.0.0",
